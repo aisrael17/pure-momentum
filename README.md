@@ -8,9 +8,10 @@ Our project is based upon the following research article [Pure Momentum in Crypt
 
 ## Github and Project Creators
 This code was built using [Github Location](https://github.com/aisrael17)
+<br>
 Arthured by
-Andrew Israel [Israel Github](https://github.com/aisrael17/pure-momentum)
-Michael Mikelic [Mikelic Github](https://github.com/michaelmikelic)
-Brian Portnoy [Portnoy Github]()
-Dave Peterson [Peterson Github]()
-Heber Cruz Berber [Berber Github]()
+- Andrew Israel [Israel Github](https://github.com/aisrael17/pure-momentum)
+- Michael Mikelic [Mikelic Github](https://github.com/michaelmikelic)
+- Brian Portnoy [Portnoy Github]()
+- Dave Peterson [Peterson Github]()
+- Heber Cruz Berber [Berber Github]()
