@@ -1,4 +1,17 @@
-# pure-momentum
-Project 1 for the Columbia FinTech Boot Camp
+# Pure Momentum 
+Based upon a June, 2021 research article titled *Pure Momentun in Cryptocurrency Markets* by Cesare Fracassi and Shimon Kogan, momentum in financial markets is one of the most widespread, persistent, and puzzling phenomenon in asset pricing.  
 
-Michaels version
+We decided to put this research hypothesis to the test using historical hourly data for both Bitcoin and Ethereum to try and predict future movements with relevant statistical accuracy.  
+
+## Background Information
+Our project is based upon the following research article [Pure Momentum in Cryptocurrency Markets](https://assets.ctfassets.net/c5bd0wqjc7v0/4RzmvaUG64ixNPXWuZGXbo/7115cc7bef963d2ff5abbacf879f5b1e/SSRN-id4138685.pdf)
+
+## Github and Project Creators
+This code was built using [Github Location](https://github.com/aisrael17/pure-momentum)
+<br>
+Authored By:
+- Andrew Israel [Israel Github](https://github.com/aisrael17)
+- Michael Mikelic [Mikelic Github](https://github.com/michaelmikelic)
+- Brian Portnoy [Portnoy Github](https://github.com/mbfm24)
+- Dave Peterson [Peterson Github](https://github.com/davepetersen)
+- Heber Cruz Berber [Berber Github]()
