@@ -14,4 +14,4 @@ Authored By:
 - Michael Mikelic [Mikelic Github](https://github.com/michaelmikelic)
 - Brian Portnoy [Portnoy Github](https://github.com/mbfm24)
 - Dave Peterson [Peterson Github](https://github.com/davepetersen)
-- Heber Cruz Berber [Berber Github]() (https://github.com/heberbcruz)
+- Heber Cruz Berber [Berber Github](https://github.com/heberbcruz)
