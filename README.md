@@ -17,12 +17,6 @@ This code was built using [Github Location](https://github.com/aisrael17/pure-mo
 Authored By:
 - Andrew Israel [Israel Github](https://github.com/aisrael17)
 - Michael Mikelic [Mikelic Github](https://github.com/michaelmikelic)
-<<<<<<< HEAD
 - Brian Portnoy [Portnoy Github](https://github.com/mbfm24)
 - Dave Petersen [Dave Github](https://github.com/davepetersen)
 - Heber Cruz Berber [Berber Github](https://github.com/heberbcruz)
-=======
-- Brian Portnoy [Brian's Github](https://github.com/mbfm24)
-- Dave Peterson [Peterson Github](https://github.com/davepetersen)
-- Heber Cruz Berber [Heber Github](https://github.com/heberbcruz)
->>>>>>> refs/remotes/origin/main
