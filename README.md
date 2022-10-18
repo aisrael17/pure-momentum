@@ -6,7 +6,6 @@ We decided to put this research hypothesis to the test using historical hourly d
 ## Background Information
 Our project is based upon the following research article [Pure Momentum in Cryptocurrency Markets](https://assets.ctfassets.net/c5bd0wqjc7v0/4RzmvaUG64ixNPXWuZGXbo/7115cc7bef963d2ff5abbacf879f5b1e/SSRN-id4138685.pdf)
 
-
 ## Powerpoint Presentation
 [Powerpoint Presentation Link](https://docs.google.com/presentation/d/18NjzrryTQjl3WhjnqxR0_M_2_xWZ1ovKL0NzKaoA3ew/edit#slide=id.g16e1fa2dbff_1_0)
 
