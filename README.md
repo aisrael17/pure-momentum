@@ -3,6 +3,12 @@ Based upon a June, 2021 research article titled *Pure Momentun in Cryptocurrency
 
 We decided to put this research hypothesis to the test using historical hourly data for both Bitcoin and Ethereum to try and predict future movements with relevant statistical accuracy.  
 
+## Technologies Used
+We pulled historical hourly data for both Bitcoin and Ethereum from a number of exchanges.  For this project we used data from both Gemini and Yahoo Finance.  The data that we pull is then stored on a local csv file.  We then performed a regression analysis to test the thesis brought up in the research article.  
+
+## Instructions
+To run this application clone the files from github onto your PC and then run it using Jupyter Lab.  You will need the Pandas and NumPy applications from the Python library which can be installed on your PC.  
+
 ## Background Information
 Our project is based upon the following research article [Pure Momentum in Cryptocurrency Markets](https://assets.ctfassets.net/c5bd0wqjc7v0/4RzmvaUG64ixNPXWuZGXbo/7115cc7bef963d2ff5abbacf879f5b1e/SSRN-id4138685.pdf)
 
