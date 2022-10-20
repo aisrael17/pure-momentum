@@ -24,5 +24,5 @@ Authored By:
 - Andrew Israel [Israel Github](https://github.com/aisrael17)
 - Michael Mikelic [Mikelic Github](https://github.com/michaelmikelic)
 - Brian Portnoy [Portnoy Github](https://github.com/mbfm24)
-- Dave Petersen [Dave Github](https://github.com/davepetersen)
+- Dave Petersen [Petersen Github](https://github.com/davepetersen)
 - Heber Cruz Berber [Berber Github](https://github.com/heberbcruz)
